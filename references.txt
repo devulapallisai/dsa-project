@@ -1,0 +1,6 @@
+GMM disadvantages:
+
+https://towardsdatascience.com/expectation-maximization-for-gmms-explained-5636161577ca
+https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
+
+Clustering : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow book chapter 9
